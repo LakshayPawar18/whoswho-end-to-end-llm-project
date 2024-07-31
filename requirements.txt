@@ -1,0 +1,9 @@
+langchain
+google.generativeai
+python-dotenv
+streamlit
+langchain_experimental
+pymysql
+sentence-transformers
+chromadb
+cryptography
