@@ -70,5 +70,5 @@ def get_few_shot_db_chain():
 #This is how you define a main function
 if __name__ == "__main__":
     chain = get_few_shot_db_chain()
-    print(chain.invoke("what designation of lakshay pawar"))
+    print(chain.invoke("what is the designation of I s negi"))
 
