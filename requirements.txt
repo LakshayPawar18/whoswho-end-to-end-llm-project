@@ -7,3 +7,5 @@ pymysql
 sentence-transformers
 chromadb
 cryptography
+langchain_huggingface
+langchain_google_genai
