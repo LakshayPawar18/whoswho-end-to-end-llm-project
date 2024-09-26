@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv() #----used to load the api key from .env file
 
 #setting up google genai
-llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key="")
+llm = GoogleGenerativeAI(model="gemini-1.5-flash-002", google_api_key="")
 # print(llm.invoke("write a poem on lion"))-----to check if the model is successfully deployed 
 
 # defining chain for implementing few_shots
